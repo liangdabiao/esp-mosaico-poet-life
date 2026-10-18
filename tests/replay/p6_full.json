@@ -1,0 +1,35 @@
+{
+  "_comment": "李白卖画度日，粮食只减不增：第 3 回饿死，走到真实的死亡结局页并攒下生涯履历。每回合固定 8 击：行动→卖字画→选A→继续→事件选项0→(选A 或 直接推进)→继续→下一回合；(240,392) 在 HOME/ACTION 都是无害落点，所以事件是否带答题都不会把序列带偏。",
+  "events": [
+    { "frame": 1, "type": "tap", "track": 0, "x": 240, "y": 94 },
+    { "frame": 2, "type": "tap", "track": 0, "x": 240, "y": 428 },
+    { "frame": 3, "type": "tap", "track": 0, "x": 356, "y": 428 },
+
+    { "frame": 4, "type": "tap", "track": 0, "x": 186, "y": 428 },
+    { "frame": 5, "type": "tap", "track": 0, "x": 240, "y": 251 },
+    { "frame": 6, "type": "tap", "track": 0, "x": 240, "y": 132 },
+    { "frame": 7, "type": "tap", "track": 0, "x": 240, "y": 392 },
+    { "frame": 8, "type": "tap", "track": 0, "x": 240, "y": 310 },
+    { "frame": 9, "type": "tap", "track": 0, "x": 240, "y": 132 },
+    { "frame": 10, "type": "tap", "track": 0, "x": 240, "y": 392 },
+    { "frame": 11, "type": "tap", "track": 0, "x": 240, "y": 392 },
+
+    { "frame": 12, "type": "tap", "track": 0, "x": 186, "y": 428 },
+    { "frame": 13, "type": "tap", "track": 0, "x": 240, "y": 251 },
+    { "frame": 14, "type": "tap", "track": 0, "x": 240, "y": 132 },
+    { "frame": 15, "type": "tap", "track": 0, "x": 240, "y": 392 },
+    { "frame": 16, "type": "tap", "track": 0, "x": 240, "y": 310 },
+    { "frame": 17, "type": "tap", "track": 0, "x": 240, "y": 132 },
+    { "frame": 18, "type": "tap", "track": 0, "x": 240, "y": 392 },
+    { "frame": 19, "type": "tap", "track": 0, "x": 240, "y": 392 },
+
+    { "frame": 20, "type": "tap", "track": 0, "x": 186, "y": 428 },
+    { "frame": 21, "type": "tap", "track": 0, "x": 240, "y": 251 },
+    { "frame": 22, "type": "tap", "track": 0, "x": 240, "y": 132 },
+    { "frame": 23, "type": "tap", "track": 0, "x": 240, "y": 392 },
+    { "frame": 24, "type": "tap", "track": 0, "x": 240, "y": 310 },
+    { "frame": 25, "type": "tap", "track": 0, "x": 240, "y": 132 },
+    { "frame": 26, "type": "tap", "track": 0, "x": 240, "y": 392 },
+    { "frame": 27, "type": "tap", "track": 0, "x": 240, "y": 392 }
+  ]
+}

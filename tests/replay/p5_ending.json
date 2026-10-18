@@ -1,0 +1,9 @@
+{
+  "_comment": "月度面板 -> 看结局（提前收笔）-> 结局页。断言 page==6、turn==1、poems==0。",
+  "events": [
+    { "frame": 1, "type": "tap", "track": 0, "x": 240, "y": 94 },
+    { "frame": 2, "type": "tap", "track": 0, "x": 240, "y": 428 },
+    { "frame": 3, "type": "tap", "track": 0, "x": 356, "y": 428 },
+    { "frame": 4, "type": "tap", "track": 0, "x": 414, "y": 428 }
+  ]
+}

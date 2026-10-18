@@ -1,0 +1,10 @@
+{
+  "_comment": "行动页签 -> 谋生页第 4 行「卖字画」（min_fame=0，必定可选）-> 答题页。断言 page==4。",
+  "events": [
+    { "frame": 1, "type": "tap", "track": 0, "x": 240, "y": 94 },
+    { "frame": 2, "type": "tap", "track": 0, "x": 240, "y": 428 },
+    { "frame": 3, "type": "tap", "track": 0, "x": 356, "y": 428 },
+    { "frame": 4, "type": "tap", "track": 0, "x": 186, "y": 428 },
+    { "frame": 5, "type": "tap", "track": 0, "x": 240, "y": 251 }
+  ]
+}

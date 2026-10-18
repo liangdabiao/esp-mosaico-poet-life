@@ -1,0 +1,7 @@
+{
+  "_comment": "标题页 -> 选李白 -> 入生 -> 小传页。断言 page==1(PL_PAGE_BIO)。",
+  "events": [
+    { "frame": 1, "type": "tap", "track": 0, "x": 240, "y": 94 },
+    { "frame": 2, "type": "tap", "track": 0, "x": 240, "y": 428 }
+  ]
+}

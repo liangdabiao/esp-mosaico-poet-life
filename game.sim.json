@@ -1,0 +1,17 @@
+{
+  "schema": "mosaico-game-sim/v1",
+  "sources": [
+    "main/game_module.c",
+    "main/game.c",
+    "main/poets_game.c",
+    "main/generated/poets_data.c",
+    "main/pl_avatar.c",
+    "main/generated/pl_avatar_data.c",
+    "main/pl_font.c",
+    "main/pl_text.c",
+    "main/pl_cjk_glyph_data.c",
+    "main/pl_save.c",
+    "main/pl_store_host.c",
+    "main/pl_sfx_host.c"
+  ]
+}

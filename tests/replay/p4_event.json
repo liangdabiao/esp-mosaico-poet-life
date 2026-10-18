@@ -1,0 +1,12 @@
+{
+  "_comment": "答题页选 A -> 继续 -> 月结 -> 事件页。断言 page==5、event_pending==true。",
+  "events": [
+    { "frame": 1, "type": "tap", "track": 0, "x": 240, "y": 94 },
+    { "frame": 2, "type": "tap", "track": 0, "x": 240, "y": 428 },
+    { "frame": 3, "type": "tap", "track": 0, "x": 356, "y": 428 },
+    { "frame": 4, "type": "tap", "track": 0, "x": 186, "y": 428 },
+    { "frame": 5, "type": "tap", "track": 0, "x": 240, "y": 251 },
+    { "frame": 6, "type": "tap", "track": 0, "x": 240, "y": 132 },
+    { "frame": 7, "type": "tap", "track": 0, "x": 240, "y": 428 }
+  ]
+}

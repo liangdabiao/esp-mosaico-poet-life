@@ -1,0 +1,9 @@
+{
+  "_comment": "小传 -> 开始生涯 -> 月度面板 -> 本月行动 -> 行动页签。断言 page==3(PL_PAGE_ACTION)、turn==1。",
+  "events": [
+    { "frame": 1, "type": "tap", "track": 0, "x": 240, "y": 94 },
+    { "frame": 2, "type": "tap", "track": 0, "x": 240, "y": 428 },
+    { "frame": 3, "type": "tap", "track": 0, "x": 356, "y": 428 },
+    { "frame": 4, "type": "tap", "track": 0, "x": 186, "y": 428 }
+  ]
+}

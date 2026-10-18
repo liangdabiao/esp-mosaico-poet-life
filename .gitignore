@@ -1,0 +1,17 @@
+# 构建产物（由 `python mosaico.py game build` / build_poet_life.ps1 重新生成）
+build/
+build-host/
+managed_components/
+dependencies.lock
+sdkconfig
+sdkconfig.old
+
+# 宿主测试可执行文件
+*.exe
+
+# 本地工具与 agent 痕迹
+.codex-runs/
+__pycache__/
+*.pyc
+*.log
+*.err
